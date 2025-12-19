@@ -1,0 +1,5 @@
+{
+  "name": "Memory Match",
+  "description": "A vibrant and responsive memory matching game with move tracking, timer, and smooth animations.",
+  "requestFramePermissions": []
+}
